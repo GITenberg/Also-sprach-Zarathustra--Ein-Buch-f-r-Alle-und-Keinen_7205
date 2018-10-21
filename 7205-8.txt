@@ -13,6 +13,7 @@ Author: Friedrich Wilhelm Nietzsche
 Posting Date: August 5, 2011 [EBook #7205]
 Release Date: January, 2005
 [This file was first posted on March 26, 2003]
+[Last updated: December 21, 2014]
 
 Language: German
 
@@ -177,7 +178,7 @@ denen ich hinab will.
 So segne mich denn, du ruhiges Auge, das ohne Neid auch ein
 allzugrosses Glück sehen kann!
 
-Segne den Becher, welche überfliessen will, dass das Wasser golden aus
+Segne den Becher, welcher überfliessen will, dass das Wasser golden aus
 ihm fliesse und überallhin den Abglanz deiner Wonne trage!
 
 Siehe! Dieser Becher will wieder leer werden, und Zarathustra will
@@ -193,7 +194,7 @@ ihm. Als er aber in die Wälder kam, stand auf einmal ein Greis vor
 ihm, der seine heilige Hütte verlassen hatte, um Wurzeln im Walde zu
 suchen. Und also sprach der Greis zu Zarathustra:
 
-Nicht fremd ist mir dieser Wanderer: vor manchen Jahre gieng er her
+Nicht fremd ist mir dieser Wanderer: vor manchem Jahre gieng er hier
 vorbei. Zarathustra hiess er; aber er hat sich verwandelt. Damals
 trugst du deine Asche zu Berge: willst du heute dein Feuer in die
 Thäler tragen? Fürchtest du nicht des Brandstifters Strafen?
@@ -256,7 +257,7 @@ der Greis und der Mann, lachend, gleichwie zwei Knaben lachen.
 
 Als Zarathustra aber allein war, sprach er also zu seinem Herzen:
 "Sollte es denn möglich sein! Dieser alte Heilige hat in seinem Walde
-noch Nichts davon gehört, dass _Gott_todt_ ist!" -
+noch Nichts davon gehört, dass _Gott todt_ ist!" -
 
 
 3.
@@ -290,7 +291,7 @@ Seht, ich lehre euch den Übermenschen!
 Der Übermensch ist der Sinn der Erde. Euer Wille sage: der Übermensch
 _sei_ der Sinn der Erde!
 
-Ich beschwöre euch, meine Brüder, _bleibt_der_Erde_treu_ und glaubt
+Ich beschwöre euch, meine Brüder, _bleibt der Erde treu_ und glaubt
 Denen nicht, welche euch von überirdischen Hoffnungen reden!
 Giftmischer sind es, ob sie es wissen oder nicht.
 
@@ -605,7 +606,7 @@ zum Danke suche. -
 7.
 
 Inzwischen kam der Abend, und der Markt barg sich in Dunkelheit: da
-verlief sich das Volk, denn selbst Neugierde und Schrekken werde
+verlief sich das Volk, denn selbst Neugierde und Schrecken werden
 müde. Zarathustra aber sass neben dem Todten auf der Erde und war in
 Gedanken versunken: so vergass er die Zeit. Endlich aber wurde es
 Nacht, und ein kalter Wind blies über den Einsamen. Da erhob sich
@@ -1359,7 +1360,7 @@ schon in Gedanken gethan hast: so würde Jedermann schreien: "Weg mit
 diesem Unflath und Giftwurm!"
 
 Aber ein Anderes ist der Gedanke, ein Anderes die That, ein Anderes
-das Bild der That. Das Rad des Grundes rollt nicht wischen ihnen.
+das Bild der That. Das Rad des Grundes rollt nicht zwischen ihnen.
 
 Ein Bild machte diesen bleichen Menschen bleich. Gleichwüchsig war er
 seiner That, als er sie that: aber ihr Bild ertrug er nicht, als sie
@@ -1379,7 +1380,7 @@ wollte rauben." Aber ich sage euch: seine Seele wollte Blut, nicht
 Raub: er dürstete nach dem Glück des Messers!
 
 Seine arme Vernunft aber begriff diesen Wahnsinn nicht und überredete
-ihn. "Was liegt an Blut! sprach sie; willst du nicht zum mindesten
+ihn. "Was liegt an Blut! sprach sie; willst du nicht zum Mindesten
 einen Raub dabei machen? Eine Rache nehmen?"
 
 Und er horchte auf seine arme Vernunft: wie Blei lag ihre Rede auf
@@ -1408,7 +1409,7 @@ will er thun, mit dem, was ihm wehe thut. Aber es gab andre Zeiten und
 ein andres Böses und Gutes.
 
 Einst war der Zweifel böse und der Wille zum Selbst. Damals wurde der
-Kranke zum Ketzer und zur Hege: als Ketzer und Hexe litt er und wollte
+Kranke zum Ketzer und zur Hexe: als Ketzer und Hexe litt er und wollte
 leiden machen.
 
 Aber diess will nicht in eure Ohren: euren Guten schade es, sagt ihr
@@ -1652,7 +1653,7 @@ Es giebt Prediger des Todes: und die Erde ist voll von Solchen, denen
 Abkehr gepredigt werden muss vom Leben.
 
 Voll ist die Erde von Überflüssigen, verdorben ist das Leben durch die
-Viel-zu-Vielen. Möge man sich mit dem "ewigen Leben" aus diesem Leben
+Viel-zu-Vielen. Möge man sie mit dem "ewigen Leben" aus diesem Leben
 weglocken!
 
 "Gelbe": so nennt man die Prediger des Todes, oder "Schwarze". Aber
@@ -1938,7 +1939,7 @@ Dort, wo der Staat aufhört, da beginnt erst der Mensch, der nicht
 und unersetzliche Weise.
 
 Dort, wo der Staat _aufhört_, - so seht mir doch hin, meine Brüder!
-Seht ihr ihn nicht, den Regenbogen und die Brükken des Übermenschen? -
+Seht ihr ihn nicht, den Regenbogen und die Brücken des Übermenschen? -
 
 Also sprach Zarathustra.
 
@@ -2180,8 +2181,8 @@ In seinem Freunde soll man seinen besten Feind haben. Du sollst ihm am
 nächsten mit dem Herzen sein, wenn du ihm widerstrebst.
 
 Du willst vor deinem Freunde kein Kleid tragen? Es soll deines
-Freundes Ehre sein, dass du dich ihm giebst, wie du bist? Aber wünscht
-dich darum zum Teufel!
+Freundes Ehre sein, dass du dich ihm giebst, wie du bist? Aber er
+wünscht dich darum zum Teufel!
 
 Wer aus sich kein Hehl macht, empört: so sehr habt ihr Grund, die
 Nacktheit zu fürchten! Ja, wenn ihr Götter wäret, da dürftet ihr euch
@@ -2225,7 +2226,7 @@ In der Liebe des Weibes ist Ungerechtigkeit und Blindheit gegen Alles,
 was es nicht liebt. Und auch in der wissenden Liebe des Weibes ist
 immer noch Überfall und Blitz und Nacht neben dem Lichte.
 
-Nodl ist das Weib nicht der Freundschaft fähig: Katzen sind immer noch
+Noch ist das Weib nicht der Freundschaft fähig: Katzen sind immer noch
 die Weiber, und Vögel. Oder, besten Falles, Kühe.
 
 Noch ist das Weib nicht der Freundschaft fähig. Aber sagt mir, ihr
@@ -2245,7 +2246,7 @@ Von tausend und Einem Ziele
 
 VieIe Länder sah Zarathustra und viele Völker: so entdeckte er vieler
 Völker Gutes und Böses. Keine grössere Macht fand Zarathustra auf
-Erden, als gut und böse.
+Erden, als Gut und Böse.
 
 Leben könnte kein Volk, das nicht erst schätzte; will es sich aber
 erhalten, so darf es nicht schätzen, wie der Nachbar schätzt.
@@ -4208,7 +4209,7 @@ In Allem aber thut ihr mir zu vertraulich mit dem Geiste; und aus der
 Weisheit machtet ihr oft ein Armen- und Krankenhaus für schlechte
 Dichter.
 
-Ihr seid keine Adler: so erfuhrt ihr auch das Glück im Schrekken des
+Ihr seid keine Adler: so erfuhrt ihr auch das Glück im Schrecken des
 Geistes nicht. Und wer kein Vogel ist, soll sich nicht über Abgründen
 lagern.
 
@@ -12074,7 +12075,7 @@ Wahrheit ist.
 10.
 
 Wollt ihr hoch hinaus, so braucht die eignen Beine! Lasst euch nicht
-empor _tragen_, setzt euch nicht auf fremde Rükken und Köpfe!
+empor _tragen_, setzt euch nicht auf fremde Rücken und Köpfe!
 
 Du aber stiegst zu Pferde? Du reitest nun hurtig hinauf zu deinem
 Ziele? Wohlan, mein Freund! Aber dein lahmer Fuss sitzt auch mit zu
